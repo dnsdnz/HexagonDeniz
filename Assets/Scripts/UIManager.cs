@@ -10,6 +10,7 @@ public class UIManager : MonoBehaviour
     public Text scoreText;
     public Text highScoreText;
     public Text movementText;
-   
+    public GameObject undoButton;
+
 
 }
