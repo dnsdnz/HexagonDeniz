@@ -807,6 +807,10 @@ MonoBehaviour:
   highScoreText: {fileID: 1933517029}
   movementText: {fileID: 1980469578}
   undoButton: {fileID: 1009758339}
+  dialogWindow: {fileID: 803772824}
+  dialogWindowTitle: {fileID: 1754005936}
+  dialogWindowMessage: {fileID: 314504099}
+  dialogWindowButton: {fileID: 741152804}
 --- !u!1 &739159171
 GameObject:
   m_ObjectHideFlags: 0
